@@ -7,4 +7,4 @@
 - [x] use ancestor template to contain navigation elements
 - [x] Should be built the “Django way” aka match the structure of in-class demo
 
-## The pull requst : 
+## The pull requst : https://github.com/shahd1995913/django_snacks/pull/1
